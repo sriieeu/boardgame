@@ -1,4 +1,4 @@
-<img width="1558" height="395" alt="image" src="https://github.com/user-attachments/assets/9ee7d865-bd76-4d4e-8481-a9f5d510faec" />Instructions to set-up CI-CD workflow is provided in repo : https://github.com/sriieeu/AWS-CI-CD-pipeline.git
+Instructions to set-up CI-CD workflow is provided in repo : https://github.com/sriieeu/AWS-CI-CD-pipeline.git
 
 AWS EC2 instances running and each instance are being defind with their responsibility only refer instructions 👆 
 <img width="1558" height="395" alt="image" src="https://github.com/user-attachments/assets/6e6d4298-cc90-41ff-950e-44bcca99704e" />
