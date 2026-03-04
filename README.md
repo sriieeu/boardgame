@@ -1,7 +1,9 @@
 Instructions to set-up CI-CD workflow is provided in repo : https://github.com/sriieeu/AWS-CI-CD-pipeline.git
 
-AWS EC2 instances running and each instance are being defind with their responsibility only refer instructions 👆 
+AWS EC2 instances running and each instance are being configured with their role :)
+
 <img width="1558" height="395" alt="image" src="https://github.com/user-attachments/assets/6e6d4298-cc90-41ff-950e-44bcca99704e" />
+
 and those instances are configured using MobaXtrem
 
 Nexus Repository
