@@ -6,6 +6,13 @@ AWS EC2 instances running and each instance are being configured with their role
 
 and those instances are configured using MobaXtrem
 
+
+Kubernetes master slave configurations
+![WhatsApp Image 2026-02-26 at 23 53 28](https://github.com/user-attachments/assets/28e6348e-e315-4a0e-bee7-d496dc284ade)
+![WhatsApp Image 2026-02-26 at 23 55 38](https://github.com/user-attachments/assets/5e3762e8-fb41-44b8-b138-e75c9bf12b7b)
+
+
+
 Nexus Repository
 <img width="1866" height="882" alt="Screenshot 2026-02-27 145213" src="https://github.com/user-attachments/assets/930f6bfa-4102-4bce-8121-449d02e22ae2" />
 
